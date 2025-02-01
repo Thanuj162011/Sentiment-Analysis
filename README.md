@@ -1,2 +1,1 @@
-# Sentiment-Analysis
-IMDB Movie Review Analysis
+# imdb_movie_review_sentiment
